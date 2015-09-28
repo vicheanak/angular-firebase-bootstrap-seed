@@ -2,8 +2,6 @@
 
 This project is a simple to understand structure of AngularJS that contains Firebase and Bootstrap. 
 
-## Project Structure
-controllers
 
 ## Directory Layout
 
