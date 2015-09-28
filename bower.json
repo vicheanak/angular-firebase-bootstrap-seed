@@ -1,0 +1,17 @@
+{
+  "name": "angular-firebase-bootstrap-seed",
+  "description": "A starter project for AngularJS, Firebase, Bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vicheanak/angular-firebase-bootstrap-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-animate": "~1.4.6",
+    "angular-bootstrap": "~0.13.4",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "html5-boilerplate": "~5.2.0"
+  }
+}
